@@ -10,5 +10,5 @@ Term Memory (LSTM) neural network, one trained on raw prices and the
 other on stazionarized prices, whereas the third one is based on Support
 Vector Regression algorithm
 
-##Setup
+## Setup
 - Clone the notebook and run it
